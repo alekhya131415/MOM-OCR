@@ -38,12 +38,19 @@ An AI-assisted web application that automatically generates professional and sta
 ## 📁 Project Structure
 MOM-OCR/
 │
+
 ├── webapp.py
+
 ├── pdfextractor.py
+
 ├── docxextractor.py
+
 ├── imageextractor.py
+
 ├── requirements.txt
+
 ├── .env
+
 └── README.md
 
 ---
